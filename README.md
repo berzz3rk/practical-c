@@ -11,8 +11,7 @@ This repository holds every excercise written in the C progrraming language foll
 ### Chapter 2
 "Explains the basic programming proccess and gives you enough information to write a very simple program."
 
-- [Hello World in C](/src/hello)
-
+- [Hello World in C](./src/ch02)
 
 ### Chapter 3
 "Discusses programming style. Commentig a program is covered, as well as writing clear and simple code."
