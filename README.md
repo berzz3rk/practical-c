@@ -11,10 +11,12 @@ This repository holds every excercise written in the C progrraming language foll
 ### Chapter 2
 "Explains the basic programming proccess and gives you enough information to write a very simple program."
 
-- [Hello World in C](./src/ch02)
+- [Hello World in C](./src/ch02/)
 
 ### Chapter 3
 "Discusses programming style. Commentig a program is covered, as well as writing clear and simple code."
+
+- [Hello World in C with comments](./src/ch03/)
 
 ### Chapter 4
 "Introduces you to simple C statements. Basic variables and the assignment statement covered in detail, along with arithmetics operators +, - , * , / and %."
